@@ -74,6 +74,8 @@ To enable email notifications:
 **Aditya Tripathi**
 
 - GitHub: [@tripathiAdityaDev](https://github.com/tripathiAdityaDev)
+- Netlify link: https://assignment-tute-4.netlify.app/
+  
 
 ## 📄 License
 
