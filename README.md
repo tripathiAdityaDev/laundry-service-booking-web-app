@@ -74,7 +74,7 @@ To enable email notifications:
 **Aditya Tripathi**
 
 - GitHub: [@tripathiAdityaDev](https://github.com/tripathiAdityaDev)
-- Netlify link: laundry-serviceweb.netlify.app
+- Netlify link: [laundry-serviceweb.netlify.app](https://laundry-serviceweb.netlify.app/)
   
 
 ## 📄 License
